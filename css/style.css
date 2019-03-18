@@ -98,6 +98,7 @@ main :after {
   width: 430px;
   height: 245px;
   float: right;
+  border: #a2afc2 solid 1px;
 }
 .pluses {
   background-color: #f5f5f5;
